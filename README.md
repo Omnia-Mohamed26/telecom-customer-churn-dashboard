@@ -5,7 +5,7 @@
 # 📡 Telecom Customer Churn Dashboard
 
 <p align="center">
-  <img src="1_Executive_overview.png" alt="Telecom Customer Churn Dashboard" width="100%">
+  <img src="01_Executive_Overview.png" alt="Telecom Customer Churn Dashboard" width="100%">
 </p>
 
 An interactive **Business Intelligence Dashboard** built with **Power BI** to analyze customer churn in the telecommunications industry. The project leverages **Power Query**, **DAX**, and **data modeling** to transform raw customer data into meaningful insights that support data-driven business decisions and improve customer retention strategies.
@@ -97,7 +97,7 @@ Provides a high-level overview of customer distribution, business performance, a
 Analyzes customer demographics, subscribed services, payment methods, and contract distribution to better understand customer behavior.
 
 <p align="center">
-<img src="2_Customer_Analysis.png" width="100%">
+<img src="02_Customer_Analysis.png" width="100%">
 </p>
 
 ---
@@ -107,7 +107,7 @@ Analyzes customer demographics, subscribed services, payment methods, and contra
 Explores the primary factors influencing customer churn, helping identify business opportunities to improve customer retention.
 
 <p align="center">
-<img src="3_Deep_Dive_Insights.png" width="100%">
+<img src="03_Deep_Dive_Insights.png" width="100%">
 </p>
 
 ---
