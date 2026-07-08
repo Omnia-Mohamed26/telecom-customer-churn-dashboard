@@ -5,7 +5,7 @@
 # 📊 Telecom Customer Churn Dashboard
 
 <p align="center">
-  <img src="1_Home.png" alt="IBM HR Analytics Dashboard" width="100%">
+  <img src="1_Executive_overview.png" alt="Telecom Customer Churn Dashboard" width="100%">
 </p>
 
 
