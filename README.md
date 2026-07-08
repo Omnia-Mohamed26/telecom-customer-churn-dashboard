@@ -4,6 +4,12 @@
 
 # 📊 Telecom Customer Churn Dashboard
 
+<p align="center">
+  <img src="1_Home.png" alt="IBM HR Analytics Dashboard" width="100%">
+</p>
+
+
+
 An interactive Business Intelligence dashboard built with **Power BI** to analyze customer churn in the telecommunications industry. The project leverages **Power Query**, **DAX**, and **data modeling** to transform raw data into meaningful insights that support data-driven business decisions.
 
 ---
