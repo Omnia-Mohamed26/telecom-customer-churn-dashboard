@@ -42,7 +42,7 @@ Customer churn is one of the most critical challenges facing telecom companies. 
 
 Provides a high-level overview of business performance, customer distribution, and key churn KPIs.
 
-![Executive Overview](1_Executive_Overview.png)
+
 
 ---
 
